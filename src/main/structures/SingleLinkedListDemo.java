@@ -46,6 +46,9 @@ public class SingleLinkedListDemo {
 
 }
 
+/**
+ * 单链表
+ */
 class SingleLinkedList {
 
     // 初始化头节点，不放数据，不动

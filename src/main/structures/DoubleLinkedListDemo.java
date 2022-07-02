@@ -26,6 +26,9 @@ public class DoubleLinkedListDemo {
     }
 }
 
+/**
+ * 双向链表
+ */
 class DoubleLinkedList {
 
     // 初始化头节点，不放数据，不动
